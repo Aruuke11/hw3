@@ -1,0 +1,15 @@
+.container {
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+.title {
+    font-size: 24px;
+    color: #e900fd;
+}
+
+.description {
+    font-size: 18px;
+    color: #00b1fd;
+}
